@@ -42,11 +42,6 @@ ggplot(davisdata, aes(x = Seat, y = alcohol)) +
 
 
 
-
-## Now add in boxplot
-
-
-
 ## Numerical Summarys 
 
 
@@ -54,6 +49,8 @@ ggplot(davisdata, aes(x = Seat, y = alcohol)) +
 favstats(alcohol~Seat,data=davisdata)
 ```
 
+
+It looks as the people in the back are drinking more than the people in the front and in the middle. The data shows that min all equals 0 but witht the mediam, the people in the back have 4 and the people in the middle have 1 while the front people have none. People in the back have a higher difference of consumption of alcohol. Most of the people tend to seeat in the middle with about 83 people compared to 33 in the front and 32 in the back.
 
 ## Inferential Tests
 
