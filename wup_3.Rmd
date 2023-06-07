@@ -1,6 +1,6 @@
 ---
 title: "Alcohol vs Seat choice"
-author: "Marcia Sanchez "
+author: "Marcia L Sanchez "
 date: "Summer 2023"
 output: html_document
 ---
