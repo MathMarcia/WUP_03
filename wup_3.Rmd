@@ -70,4 +70,4 @@ There is zero in the conference that is guiding the confidence level. For some r
 
 ## Conclusions
 
-Today I learned to read the statistical data from numerical and categorical. I also compared the seating charts from the people who consumed alcohol in the front, the middle and the back. I learned to ask Chat GPT in many different ways to make comparisons. I use helper files to make plots.  
+Today I learned to read the statistical data from numerical and categorical. I also compared the seating charts from the people who consumed alcohol in the front, the middle and the back. I learned to ask Chat GPT in many different ways to make comparisons. I use helper files to make plots. I have doen 3 write ups already. 
