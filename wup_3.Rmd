@@ -54,6 +54,20 @@ It looks as the people in the back are drinking more than the people in the fron
 
 ## Inferential Tests
 
+
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+```{r}
+plot(TukeyHSD(model1))
+```
+
+
+
+
+There is zero in the conference that is guiding the confidence level. For some reason the back is different from the front but the middle and the front colide together.
+
 ## Conclusions
 
 
