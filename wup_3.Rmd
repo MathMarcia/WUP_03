@@ -49,6 +49,12 @@ ggplot(davisdata, aes(x = Seat, y = alcohol)) +
 
 ## Numerical Summarys 
 
+
+```{r}
+favstats(alcohol~Seat,data=davisdata)
+```
+
+
 ## Inferential Tests
 
 ## Conclusions
